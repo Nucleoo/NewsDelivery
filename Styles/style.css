@@ -1,0 +1,74 @@
+@import url('https://fonts.googleapis.com/css2?family=Cormorant:ital@1&family=Merienda&family=Parisienne&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cormorant:ital@1&family=Merienda&family=Parisienne&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+
+.carousal-img{
+    height: 600px;
+    width: 100%;
+}
+.center-heading{
+    text-align: center;
+}
+.footer-top {
+    padding: 60px 0;
+    background: #333;
+    text-align: left;
+    color: #aaa;
+}
+
+.footer-bottom {
+    padding: 15px 0 17px 0;
+    background: #444;
+    text-align: left;
+    color: #aaa;
+}
+
+.my-head{
+    font-family: 'Merienda', cursive;
+    color: white;
+}
+.logo-head{
+    font-family: 'Parisienne', cursive;
+    color: white;
+}
+
+.my-link{
+    text-decoration: none;
+    color: #b8b1b1;
+    font-family: 'Cormorant', serif;
+    font-weight: bold;
+    color: white;
+}
+
+.my-font{
+    font-family: 'Cormorant', serif;
+}
+
+.head-font{
+    font-family: 'Playfair Display', serif;
+}
+
+.sphead{
+    font-family: 'Cormorant Garamond', serif;
+    font-weight: bold;
+}
+
+.sptext{
+    font-family: 'Lobster', cursive;
+}
+
+.mytext{
+    font-family: 'Cormorant', serif;
+    font-size: 20px;
+    /* font-weight: bold; */
+}
+
+.ntext{
+    color: #fff;
+    font-size: 16px;
+    font-weight: 300;
+    letter-spacing: 1px;
+}
+
