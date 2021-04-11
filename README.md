@@ -1,5 +1,5 @@
 # NewsDelivery
-Website Hosted on Firebase. Link: https://inewscode.web.app
+Website Hosted on Firebase. Link: https://inewsofficial.web.app
 
 # For Scrolling Effect
 <script type="text/javascript" src="./JavaScript/skrollr.js"></script>
