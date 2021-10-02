@@ -1,6 +1,9 @@
 # NewsDelivery
  A website where users can sign up for newspaper delivery at their doorstep. It also has online news blogs. The frontend was built using HTML, CSS, Bootstrap and Javascript. It was deployed using Google Firebase.
  
+ # TechStack
+ HTML, CSS, JavaScript
+ 
  # Deployed Link
 Link - https://inewsofficial.web.app
 
